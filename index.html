@@ -20,12 +20,22 @@
             color: #585756;
         }
         .same-width {
-            display: block;
-            width: 300px; /* 設置同樣的寬度 */
-            margin: 10px 0; /* 設置上下邊距 */
-            text-align: center; /* 文字置中對齊 */
-            margin-left: auto;
-            margin-right: auto;
+            width: 500px; /* 固定寬度，兩行一致 */
+            text-align: center;
+            margin: 20px auto;
+            font-family: "Microsoft JhengHei UI", sans-serif;
+        }
+
+        .title-zh {
+            font-size: 30px;
+            color: #333;
+            margin: 5px 0;
+        }
+
+        .title-en {
+            font-size: 14px;
+            color: #666;
+            margin: 5px 0;
         }
     </style>
 </head>
@@ -33,8 +43,10 @@
     <h1>Hello! 早安</h1>
     施工中...敬請期待!
     <h2>謝絕傳教，阿門。</h2>
-    <a href="https://index.ndc.gov.tw/n/zh_tw/PMI" class="same-width">景氣指標查詢系統</a>
-    <h3 class="same-width">Economic Indicators Query System</h3>
+    <div class="same-width"></div>
+        <a href="https://index.ndc.gov.tw/n/zh_tw/PMI" class="title-zh">景氣指標查詢系統</a>
+        <div class="title-en">Economic Indicators Query System</div>
+    </div>
     <pre>
     專題內含
     Power BI * 1
