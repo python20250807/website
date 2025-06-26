@@ -4,3 +4,12 @@ https://index.ndc.gov.tw/n/zh_tw/data/PMI#/
 
 消費者物價基本分類暨項目群指數
 https://nstatdb.dgbas.gov.tw/dgbasAll/webMain.aspx?sys=100&funid=dgmaine&mp=4
+
+國家/地區、主要貨品交叉表－出口
+https://web02.mof.gov.tw/njswww/WebMain.aspx?sys=100&funid=defjsptgl
+
+11405進出口貿易統計簡表
+https://www.mof.gov.tw/singlehtml/278?cntId=65891
+
+世界各主要國家貿易值排名 - WTO公布(90-113年)
+https://www.mof.gov.tw/singlehtml/278?cntId=57465
