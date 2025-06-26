@@ -1,3 +1,6 @@
-PMI:
+製造業採購經理人指數(PMI)-(總指數):
 https://index.ndc.gov.tw/n/zh_tw/data/PMI#/
 下載.xls
+
+消費者物價基本分類暨項目群指數
+https://nstatdb.dgbas.gov.tw/dgbasAll/webMain.aspx?sys=100&funid=dgmaine&mp=4
